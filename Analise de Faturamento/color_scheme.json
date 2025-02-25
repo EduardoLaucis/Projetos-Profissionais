@@ -1,0 +1,22 @@
+{
+  "name": "Bella Vita",
+  "dataColors": [
+    "#FFC107", 
+    "#8BC34A", 
+    "#2196F3", 
+    "#FF9800"  
+  ],
+  "background": "#F7F7F7", 
+  "foreground": "#333333", 
+  "tableAccent": "#FFC107", 
+  "visualStyles": {
+    "grid": {
+      "gridVertical": {
+        "color": "#DDDDDD"
+      },
+      "gridHorizontal": {
+        "color": "#DDDDDD"
+      }
+    }
+  }
+}
