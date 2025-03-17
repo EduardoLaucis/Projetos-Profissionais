@@ -17,3 +17,6 @@ Este repositório é destinado a projetos desenvolvidos por mim para comprovar m
 - **Criação de layout** seguindo um padrão regular com gráficos de vendas e cards por filtro temporal.
 - **Print do Dashboard** com dataset extraído do Kaggle:
  ![image](https://github.com/user-attachments/assets/48b2ee7a-6ff6-4e4d-b474-4ccdc413fe6a)
+
+## Acompanhar simulados individuais
+- Script em Python que gera um arquivo no Excel com fórmulas embutidas para utilizar o arquivo de apoio para treinos de simulados individuais, gerando a porcentagem de acertos com base no input do usuário
