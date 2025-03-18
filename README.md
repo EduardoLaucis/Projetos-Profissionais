@@ -1,6 +1,6 @@
 # Repositório de Projetos
 
-Este repositório é destinado a projetos desenvolvidos por mim para comprovar meus conhecimentos em determinadas tecnologias.
+Este repositório é destinado a projetos pessoas em tecnologias que busco aprendizado contínuo.
 
 ## Ranking de Publicadores
 
